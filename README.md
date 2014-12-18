@@ -10,14 +10,26 @@ Macro input of special chars does not work with the curent library for generatin
 
 Considering trimming down on the cooldown menus, which are automatically generated at runtime.
 
+<<<<<<< HEAD
 Sometimes the center icon of the radial menu/cursor ddoesnt load. just reload the overlay in the settings window.
 
 There are missing ability icons, etc. If you make note, they can easily be added in.
 
 To Fix:
+=======
+Sometimes the center icon of the radial menu/cursor ddoesnt load. just reload the overlay in the settings  window.
+
+There are missing ability icons, etc. If you make note, they can easily be added in.
+
+To Fix: 
+>>>>>>> origin/master
 
 Add mouse button/game controller support
 
 Different menu sets for different maps and modes
 
+<<<<<<< HEAD
 ~Add Zilean Icons
+=======
+~Add Zilean Icons
+>>>>>>> origin/master
