@@ -2,7 +2,7 @@ LoL Iris Communicator
 
 Known issues:
 
-This code is clunky, hideous... need help with cleanup.
+This code is clunky.
 
 The api used to get match data does not provide the summoner spell ids of bots.
 
@@ -21,15 +21,8 @@ Sometimes the center icon of the radial menu/cursor ddoesnt load. just reload th
 
 There are missing ability icons, etc. If you make note, they can easily be added in.
 
-To Fix: 
->>>>>>> origin/master
-
 Add mouse button/game controller support
 
 Different menu sets for different maps and modes
 
-<<<<<<< HEAD
 ~Add Zilean Icons
-=======
-~Add Zilean Icons
->>>>>>> origin/master
