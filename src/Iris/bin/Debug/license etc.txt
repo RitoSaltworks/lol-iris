@@ -1,0 +1,6 @@
+http://www.codeproject.com/Articles/117657/InputManager-library-Track-user-input-and-simulate
+http://overlay-api.net/
+http://www.mashape.com/timtastic/league-of-legends-3
+http://james.newtonking.com/json
+
+Iris is not endorsed by Riot Games and doesn’t reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc. 

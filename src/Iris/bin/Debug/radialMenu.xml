@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<RadialMenu>
+	<Item Name="Vision" Action="SubMenu" Icon="vision.png">
+		<Item Name="Request Ward" Action="PingAndChat" Icon="requestWard.png">
+			Please ward here.
+		</Item>
+		<Item Name="Warning: Enemy Ward" Action="PingAndChat" Icon="enemyWard.png">
+			Enemy ward here.
+		</Item>
+		<Item Name="Warning: No/Low Vision" Action="PingAndChat" Icon="imFuckingBlindLOL.png">
+			Be careful: we are lacking vision.
+		</Item>
+		<Item Name="Clear Ward" Action="PingAndChat" Icon="clearWard.png">
+			Please help me clear enemy ward(s).
+		</Item>
+	</Item>
+	<Item Name="Objectives" Action="SubMenu" Icon="objectives.png">
+		<Item Name = "Secure Dragon" Action="PingAndChat" Icon="secureDragon.png">
+			Secure the Dragon
+		</Item>
+		<Item Name = "Bait Dragon" Action="PingAndChat" Icon="baitDragon.png">
+			Bait Dragon
+		</Item>
+		<Item Name = "Secure Baron" Action="PingAndChat" Icon="secureBaron.png">
+			Secure the Baron
+		</Item>
+		<Item Name = "Bait Baron" Action="PingAndChat" Icon="baitBaron.png">
+			Bait Baron
+		</Item>
+		<Item Name="Secure Blue" Action="PingAndChat" Icon="secureBlueBuff.png">
+			Secure Blue Buff
+		</Item>
+		<Item Name="Secure Red" Action="PingAndChat" Icon="secureRedBuff.png">
+			Secure Red Buff
+		</Item>
+	</Item>
+	<Item Name="Wave Control/Grouping" Action="SubMenu" Icon="waveControl.png">
+		<Item Name="Group" Action="PingAndChat" Icon="group.png">
+			Let's group up.
+		</Item>
+		<Item Name="Split-Push" Action="PingAndChat" Icon="splitPush.png">
+			Let's split push.
+		</Item>
+		<Item Name="Stall" Action="PingAndChat" Icon="stall.png">
+			Let's stall this out.
+		</Item>
+		<Item Name="Turtle" Action="PingAndChat" Icon="turtle.png">
+			Turtle, stall and play defense.
+		</Item>
+		<Item Name="Ambush" Action="PingAndChat" Icon="ambush.png">
+			Set up an ambush here.
+		</Item>
+	</Item>
+	<Item Name="Fighting" Action="SubMenu" Icon="fight.png">
+		<Item Name="Engage" Action="PingAndChat" Icon="followMe.png">
+			Engage the enemy.
+		</Item>
+		<Item Name="Poke/Siege" Action="PingAndChat" Icon="pokeSiege.png">
+			Poke and siege the enemy.
+		</Item>
+		<Item Name="Flank" Action="PingAndChat" Icon="flank.png">
+			Flank around the enemy. 
+		</Item>
+	</Item>
+	<Item Name="Laning" Action="SubMenu" Icon="laning.png">
+		<Item Name="Freeze" Action="PingAndChat" Icon="freeze.png">
+			I want too freeze this lane.
+		</Item>
+		<Item Name="Push" Action="PingAndChat" Icon="push.png">
+			Let's push this lane.
+		</Item>
+		<Item Name="Allow Push" Action="PingAndChat" Icon="allowPush.png">
+			Let's let the lane push toward our side.
+		</Item>
+		<Item Name="Turret Hug" Action="PingAndChat" Icon="hugTurret.png">
+			Turret hug.
+		</Item>
+	</Item>
+	<Item Name="Social" Action="SubMenu" Icon="disposition.png">
+		<Item Name="Salty" Action="Chat" Icon="salty.png">My sodium level is a bit high at the moment...</Item>
+		<Item Name="Good Job!" Action="Chat" Icon="goodJob.png">
+			Good job
+		</Item>
+		<Item Name="I apologize." Action="Chat" Icon="sorry.png">
+			I apologize
+		</Item>
+		<Item Name="Stay positive." Action="Chat" Icon="stayPositive.png">
+			Stay positive
+		</Item>
+		<Item Name="It's OK." Action="Chat" Icon="OK.png">
+			Everything is... OK 
+		</Item>
+		<Item Name="GG" Action="Chat" Icon="gg.png">
+			/ALL GG
+		</Item>
+		<Item Name="Bellybutton" Action="Chat" Icon="bellyButton.png">
+			/ALL I have a bellybutton.
+		</Item>
+		<Item Name="GLHF" Action="Chat" Icon="glhf.png">
+			/ALL GLHF
+		</Item>
+	</Item>
+</RadialMenu>

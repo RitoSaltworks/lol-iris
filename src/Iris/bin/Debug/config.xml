@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Config>
+  <Summoner Name="K pot" Region="NA" />
+  <PingHotkey Key="71" Alt="false" Shift="false" Ctrl="false" />
+  <RadialMenu BaseRadius="136" Padding="12" CloseOnOutsideClick="true" IsStatic="false" StaticX="500" StaticY="500">
+    <Hotkey Key="35" Alt="False" Ctrl="False" Shift="False" />
+    <Font Name="Arial" Size="9" Color="#0099FF" SelectColor="#99FF00" />
+    <Icons Width="45" Height="45" />
+    <CenterImage Width="64" Height="64" />
+  </RadialMenu>
+</Config>
