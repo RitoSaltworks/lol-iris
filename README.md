@@ -3,20 +3,24 @@ lol-iris
 
 LoL Iris Communicator
 
-known issues:
+Known issues:
 
-This code is clunky, hideous... need professionals or more experienced amateurs to clean up.
+This code is clunky, hideous... need help with cleanup.
 
-the api used to get match data does not provide the summoner spell ids of bots
+The api used to get match data does not provide the summoner spell ids of bots.
 
-macro input of special chars does not work with the curent library for generating key events
+Macro input of special chars does not work with the curent library for generating key events.
 
-considering trimming down on the cooldown menus, which are automatically generated at runtime
+Considering trimming down on the cooldown menus, which are automatically generated at runtime.
 
-sometimes the center icon of the radial menu/cursor ddoesnt load. just reload the overlay in the settings  window
+Sometimes the center icon of the radial menu/cursor ddoesnt load. just reload the overlay in the settings  window.
 
-to fix: 
+There are missing ability icons, etc. If you make note, they can easily be added in.
 
-add mouse button/game controller support
+To Fix: 
 
-different menu sets for different maps and modes
+Add mouse button/game controller support
+
+Different menu sets for different maps and modes
+
+~Add Zilean Icons
